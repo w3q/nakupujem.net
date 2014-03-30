@@ -1,0 +1,3 @@
+[submodule "ZendSkeletonApplication"]
+	path = ZendSkeletonApplication
+	url = https://github.com/zendframework/ZendSkeletonApplication
